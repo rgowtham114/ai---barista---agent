@@ -1,0 +1,8 @@
+{
+  "name": "AI Barista Agent",
+  "description": "Interactive AI Barista assistant that recommends drinks and pastries from the coffee shop menu using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
